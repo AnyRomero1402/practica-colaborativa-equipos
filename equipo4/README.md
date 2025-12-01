@@ -2,10 +2,8 @@
 
 ## Integrantes
 
-* \[ ] Integrante 1
-* \[ ] Joaquin Mendez
 * Juan Pedro Pesántez
-* \[ ] Integrante 2
+* Joaquín Méndez
 * \[ ] Integrante 3
 * \[ ] Integrante 4
 
